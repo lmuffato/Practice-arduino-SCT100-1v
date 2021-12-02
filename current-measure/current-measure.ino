@@ -1,6 +1,3 @@
-//Programa : Medidor de energia elétrica com Arduino e SCT-013
-//Autor : FILIPEFLOP
- 
 //Baseado no programa exemplo da biblioteca EmonLib
  
 //Carrega as bibliotecas
